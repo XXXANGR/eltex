@@ -1,7 +1,6 @@
 #include "main.h"
 
 
-
 void add_contact(Contact *contact, int *num_contacts){
     if (*num_contacts < MAX_CONTACTS){
     Contact new_contact;
