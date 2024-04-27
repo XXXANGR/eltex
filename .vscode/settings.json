@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "add_contact.h": "c",
-        "stdio.h": "c",
-        "contact.h": "c"
-    }
-}
