@@ -3,7 +3,6 @@
 int file_locked = 0;
 
 int main() {
-  int file_locked = 0;
   pid_t pid;
   FILE *file = fopen("src/numbers.txt", "r+");
   if (file == NULL) {
