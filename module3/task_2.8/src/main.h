@@ -10,8 +10,8 @@
 
 extern int file_locked;
 
-void signal_handler(int signal);
-void child_process(int pipe_fd[2], FILE *file);
-void parent_process(int pipe_fd[2], FILE *file, pid_t pid);
-
+void signal_handler(int sig);
+void generate_numbers(char *filename);
+void parent_process(FILE *file, int pipe_fd[2], pid_t child_pid);
+void child_process(FILE *file, int pipe_fd[2]);
 #endif

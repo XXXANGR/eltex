@@ -10,4 +10,4 @@ Modernization of the task 2.1
 2. Run the program:
 - ./program  
 
-3. After executing the program, look at the contents of the file `numbers.txt `to make sure that the numbers were multiplied by 2.
+3. After executing the program, look at the contents of the file `numbers.txt `to make sure that the numbers were duplicated
