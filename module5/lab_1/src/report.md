@@ -28,4 +28,5 @@ apt-get install build-essential linux-headers-$(uname -r)
 
 ## Команда rmmod hello.ko удаляет модуль из ядра.
 - Ввести команду `dmesg | tail -1` , чтобы убедиться что модуль действительно был удален.   
+
 ![](images/4.png) 
