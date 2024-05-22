@@ -15,7 +15,6 @@ apt-get install build-essential linux-headers-$(uname -r)
 ## Введите команду insmod hello.ko. 
 - `insmod` вставит новый модуль в ядро  
 - Ввести команду `dmesg | tail -1` для просмотра системного журнала  
-- Чтобы проверить список  
 
 ![](images/2.png)  
 
@@ -27,6 +26,6 @@ apt-get install build-essential linux-headers-$(uname -r)
 
 ![](images/5.png) 
 
-## Команда rmmod hello.ko - удалить модуль из ядра.
-- Ввести команду `dmesg | tail -1` , чтобы убедиться что модуль действительно был удален.  
+## Команда rmmod hello.ko удаляет модуль из ядра.
+- Ввести команду `dmesg | tail -1` , чтобы убедиться что модуль действительно был удален.   
 ![](images/4.png) 
