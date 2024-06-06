@@ -14,31 +14,31 @@
 
 - echo 1 > setting_leds  
 
-![](images_gif/1.MOV)  
+![](images_gif/1.gif)  
 
 - echo 2 > setting_leds  
 
-![](images_gif/2.MOV)  
+![](images_gif/2.gif)  
 
 - echo 3 > setting_leds  
 
-![](images_gif/3.MOV)  
+![](images_gif/3.gif)  
 
 - echo 4 > setting_leds  
 
-![](images_gif/4.MOV)  
+![](images_gif/4.gif)  
 
 - echo 5 > setting_leds  
 
-![](images_gif/5.MOV)  
+![](images_gif/5.gif)  
 
 - echo 6 > setting_leds  
 
-![](images_gif/6.MOV)  
+![](images_gif/6.gif)  
 
 - echo 7 > setting_leds  
 
-![](images_gif/7.MOV)  
+![](images_gif/7.gif)  
 
 При остальных значения миганий нет  
 
